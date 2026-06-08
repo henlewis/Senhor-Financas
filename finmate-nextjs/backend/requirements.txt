@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv==1.0.1
+reportlab==4.2.5
+PyPDF2==3.0.1
+pydantic
+python-multipart==0.0.20
+openai==1.57.2
+duckduckgo-search>=8.1.1
+yfinance==0.2.66
+supabase
+feedparser
+pandas
+langfuse
